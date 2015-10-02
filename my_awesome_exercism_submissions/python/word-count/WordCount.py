@@ -1,4 +1,3 @@
-__author__ = 'FarzanehOrak'
 
 key = "abcdefghijklmnopqrstuvwxyz"
 sentence = "Hello Dear it is time to shine"
